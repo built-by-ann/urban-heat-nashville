@@ -60,3 +60,4 @@ The analysis supports the existence of a **strong positive correlation** between
 
 - [`poster/urban-heat-nashville-poster.pdf`](poster/urban-heat-nashville-poster.pdf) – final project poster
 - [`data/data_sources.md`](data/data_sources.md) – all data used and where to get it
+- [`figures`](figures) – maps of figures 1, 2, and 3
