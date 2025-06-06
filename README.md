@@ -3,7 +3,6 @@
 **Author**: Ann Mathew  
 **Tool used**: QGIS  
 **Course**: ANTH 3621
-
 **Fall 2024**
 
 ## 📌 Introduction
